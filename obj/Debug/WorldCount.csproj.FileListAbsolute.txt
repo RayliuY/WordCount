@@ -1,0 +1,2 @@
+D:\软件工程实验数据\WorldCount\obj\Debug\WorldCount.csprojAssemblyReference.cache
+D:\软件工程实验数据\WorldCount\obj\Debug\WorldCount.csproj.CoreCompileInputs.cache
